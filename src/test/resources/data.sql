@@ -1,0 +1,17 @@
+INSERT INTO PRODUCT
+values ('FAL-8406270', '500 Zapatilla Urbana Mujer', 'New Balance', '37', 42990.00,
+        'https://falabella.scene7.com/is/image/Falabella/881898502_1'),
+       ('FAL-45654141', '500 Zapatilla Urbana Hombre', 'Adidas', '37', 35990.00,
+        'https://falabella.scene7.com/is/image/Falabella/881898502_1'),
+       ('FAL-98746984', '500 Zapatilla Urbana Niño', 'Lotto', '37', 26990.00,
+        'https://falabella.scene7.com/is/image/Falabella/881898502_1'),
+       ('FAL-45217784', 'Bicicleta Baltoro Aro 29', 'Trek', '37', 157990.00,
+        'https://falabella.scene7.com/is/image/Falabella/881898502_1'),
+       ('FAL-8406272', 'Camisa Manga Larga', 'Tottus', '37', 14990.00,
+        'https://falabella.scene7.com/is/image/Falabella/881898502_1'),
+       ('FAL-8406273', 'Camisa Manga Corta Mujer', 'Gucci', '37', 14990.00,
+        'https://falabella.scene7.com/is/image/Falabella/881898502_1'),
+       ('FAL-8406274', 'Computador HP', 'HP', '37', 859990.00,
+        'https://falabella.scene7.com/is/image/Falabella/881898502_1'),
+       ('FAL-8406400', 'Cargador Iphone', 'Apple', '37', 14990.00,
+        'https://falabella.scene7.com/is/image/Falabella/881898502_1');
